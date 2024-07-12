@@ -1,0 +1,8 @@
+            <property name="javax.persistence.jdbc.driver"
+				value="com.mysql.cj.jdbc.Driver" />
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:mysql://database-1.cru2a806a2xh.us-east-1.rds.amazonaws.com:3306/hospital3?createDatabaseIfNotExist=true" />
+			<property name="javax.persistence.jdbc.user"
+				value="admin" />
+			<property name="javax.persistence.jdbc.password"
+				value="akash123" />
